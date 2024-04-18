@@ -633,6 +633,7 @@ a.btn:nth-child(2):hover {
 }
 
 
+
 /*  Skill section */
 
 .skills {
@@ -762,7 +763,6 @@ a.btn:nth-child(2):hover {
     animation: glow 0.04s linear forwards;
     animation-delay: calc(var(--i)*0.05s);
 }
-
 
 
 /* portfolio  */
